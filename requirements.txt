@@ -1,0 +1,2 @@
+aiohttp==3.11.11
+phonenumbers==8.13.52
