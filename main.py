@@ -16,7 +16,7 @@ BOT_TOKEN = "8865186253:AAHZy2bd44y0ntk4p8XEvU9IGw7o1ZuZqdk"
 GROUP_CHAT_ID = "-1003903265566"
 
 API_KEY = "MURAD_1A19846FEA646F45D8EE07B6"
-OTP_API_URL = "https://fastxotp.com/@Access/@Bot/3oo9/@public/api/success-otp-info"
+OTP_API_URL = "https://2eee7.com/@Access/@Bot/2eee7/@public/api/success-otp-info"
 
 REFRESH_INTERVAL = 5  # ১ সেকেন্ড পর পর চেক করবে
 seen_otps = set()
